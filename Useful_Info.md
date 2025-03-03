@@ -10,6 +10,7 @@
 - [MaxPooling2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D)
 - [Convolutional Neural Networks (Course 4 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
 - [Neural Networks for Machine Learning - Lecture 6a Overview of mini-batch gradient descent](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
+- [Kaggle Dogs v Cats dataset](https://www.kaggle.com/c/dogs-vs-cats)
 
 # Useful Jupyter Notebook Commands
 
