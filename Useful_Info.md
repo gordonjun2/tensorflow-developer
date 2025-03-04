@@ -16,6 +16,8 @@
 - [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)
 - [Kaggle Dogs v Cats](https://www.kaggle.com/c/dogs-vs-cats)
 - [ImageNet](https://www.image-net.org/)
+- [Rock Paper Scissors](https://laurencemoroney.com/datasets.html#rock-paper-scissors-dataset)
+- [Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
 
 # Research Papers
 
