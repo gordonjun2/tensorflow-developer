@@ -15,6 +15,8 @@
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [spurious correlations](https://www.tylervigen.com/spurious-correlations)
 - [spurious scholar](https://tylervigen.com/spurious-scholar)
+- [Huber loss](https://en.wikipedia.org/wiki/Huber_loss)
+- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Course 2 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 
 # Datasets
 
