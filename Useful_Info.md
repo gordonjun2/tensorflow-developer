@@ -12,6 +12,9 @@
 - [Keras's Image augmentation layers](https://keras.io/api/layers/preprocessing_layers/image_augmentation/)
 - [Embedding Projector](https://projector.tensorflow.org/)
 - [Sequence Models (Course 5 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [spurious correlations](https://www.tylervigen.com/spurious-correlations)
+- [spurious scholar](https://tylervigen.com/spurious-scholar)
 
 # Datasets
 
@@ -24,6 +27,8 @@
 - [BBC News Classification](https://www.kaggle.com/c/learn-ai-bbc/overview)
 - [Large Movie Review](https://ai.stanford.edu/~amaas/data/sentiment/)
 - [Tensorflow Datasets](https://www.tensorflow.org/datasets/catalog/overview)
+- [Laurence's Generated Poetry](https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W4/misc/Laurences_generated_poetry.txt)
+- [Shakespeare Sonnets](https://www.opensourceshakespeare.org/views/sonnets/sonnet_view.php?range=viewrange&sonnetrange1=1&sonnetrange2=154)
 
 # Research Papers
 
