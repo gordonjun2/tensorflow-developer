@@ -11,6 +11,7 @@
 - [Neural Networks for Machine Learning - Lecture 6a Overview of mini-batch gradient descent](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
 - [Keras's Image augmentation layers](https://keras.io/api/layers/preprocessing_layers/image_augmentation/)
 - [Embedding Projector](https://projector.tensorflow.org/)
+- [Sequence Models (Course 5 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
 
 # Datasets
 
