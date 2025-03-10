@@ -31,6 +31,8 @@
 - [Tensorflow Datasets](https://www.tensorflow.org/datasets/catalog/overview)
 - [Laurence's Generated Poetry](https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W4/misc/Laurences_generated_poetry.txt)
 - [Shakespeare Sonnets](https://www.opensourceshakespeare.org/views/sonnets/sonnet_view.php?range=viewrange&sonnetrange1=1&sonnetrange2=154)
+- [Sunspots](https://www.kaggle.com/datasets/robervalt/sunspots)
+- [Daily Minimum Temperatures in Melbourne](https://github.com/jbrownlee/Datasets/blob/master/daily-min-temperatures.csv)
 
 # Research Papers
 
